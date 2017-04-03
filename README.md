@@ -5,7 +5,7 @@ This VM is an OVA file that can be run in VirtualBox; it contains many open sour
 
 INSTALL
 You will need to have installed VirtualBox (VB) in either Windows, Mac or Linux, VB is freely available at www.virtualbox.org. 
-1. Copy the MGlinux.x.xx.ova file to you hard drive (anyplace you like).
+1. Copy the MGlinux.x.xx.ova file to you hard drive (anyplace you like). Available at Figshare.
 2. From within VB click in the menu File and then Import Appliance and follow the instructions.
 3. After it is succssesfully imported, you can configure the virtual machine (VM) by allowing as much CPU´s and RAM as possible.
 
