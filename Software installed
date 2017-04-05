@@ -1,5 +1,5 @@
-The following software is already installed in version **1.46**
-##Genomics
+The following software is already installed in version 1.46
+Genomics
 
 CMG Biotools 2.2 (parcial)
 Mauve 2.3.1
@@ -19,7 +19,7 @@ SPADES 3.8.2
 QUAST 4.1
 jellyfish 2.2.5
 
-##Metagenomics
+Metagenomics
 
 QIIME 1.9.0
 RDP 2.5
@@ -28,7 +28,7 @@ Krona tools 2.5
 Mothur
 focus 0.3
 
-##Taxonomy
+Taxonomy
 
 pyANI
 FastTree 2.1.8
