@@ -1,0 +1,43 @@
+The following software is already installed in version **1.46**
+##Genomics
+
+CMG Biotools 2.2 (parcial)
+Mauve 2.3.1
+Newbler 2.3
+ACT/Artemis 13.0.0
+DNAplotter
+FastQC 0.10.1
+Trim Galore (cutadapt) 0.3.3
+myRAST 33.0
+Medusa
+MUMer
+Jspecies 1.2.1
+BRIGS 0.95
+Prodigal 2.6.1
+PEAR - Paired-End reAd mergeR 0.9.10
+SPADES 3.8.2
+QUAST 4.1
+jellyfish 2.2.5
+
+##Metagenomics
+
+QIIME 1.9.0
+RDP 2.5
+STAMP 2.3
+Krona tools 2.5
+Mothur
+focus 0.3
+
+##Taxonomy
+
+pyANI
+FastTree 2.1.8
+FigTree 1.4.2
+jModelTest 2.1.10
+Mr. Bayes 3.2.6
+Mesquite 2.75
+Análisis generales
+muscle 3.8.31
+mafft 7.271
+Gblocks 0.91b
+blast+ 2.2.25-7
